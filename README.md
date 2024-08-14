@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EyeSaberDC
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning Code
-- 💞️ I’m looking to collaborate on https://getsolara.xyz/
+- 💞️ I’m looking to collaborate on https://osu-bot.com/
 - 📫 How to reach me EyeSaber on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Autistic
